@@ -4,7 +4,7 @@
   "description": "Given an `app.js` file and an empty database file `todoApplication.db`.",
   "main": "app.js",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "author": "",
   "license": "ISC",
